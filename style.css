@@ -138,7 +138,7 @@ body {
 
 .backgroundImage {
     background-image: url("./src/imgs/background.jpg");
-    background-size: 800px;
+    background-size: 85vh;
     height: 100vh;
     text-align: center;
     position: relative;
